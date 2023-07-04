@@ -34,3 +34,9 @@ You can choose to play again, which will reset the game.
 
 Note:
 This is a basic description of the Guessing Game implemented using HTML, CSS, and JavaScript. The actual implementation may vary depending on the specific design and functionality requirements. Additional features, such as score tracking or time limits, can be added to enhance the game further.
+
+
+
+click the below link to see an overview:-
+https://iridescent-tartufo-32ad66.netlify.app
+
